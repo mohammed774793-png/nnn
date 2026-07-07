@@ -1,0 +1,8 @@
+{
+  "name": "Remix: Antihyperlipidemics",
+  "description": "An interactive pharmacology learning application covering Antihyperlipidemic Drugs, Lipoproteins, Mechanisms of Action, and clinical case studies.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
